@@ -1,1 +1,1 @@
-code of line that prints an exact given task followed by new line
+C programm that print the size of various types of computer
