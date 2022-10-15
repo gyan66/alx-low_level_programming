@@ -1,1 +1,1 @@
-C program thta print exact task
+code of line that prints an exact given task followed by new line
