@@ -1,1 +1,1 @@
-program will assign a random number to the variable n each time it is executed
+program that assign a random number to the variable n and print the last the digit
