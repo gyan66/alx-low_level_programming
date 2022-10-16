@@ -1,1 +1,1 @@
-program that assign a random number to the variable n and print the last the digit
+program that prints the alphabet in lowercase, followed by a new line
